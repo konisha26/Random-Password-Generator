@@ -27,4 +27,4 @@ To get started with the **Random Password Generator**, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/random-password-generator.git
+git clone https://github.com/your-username/random-password-generator.git](https://github.com/konisha26/Random-Password-Generator.git
